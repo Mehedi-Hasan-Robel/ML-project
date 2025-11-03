@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Desktop\Test\eo number\eo number\bin\Debug\eo number.exe.config
+C:\Users\user\OneDrive\Desktop\Test\eo number\eo number\bin\Debug\eo number.exe
+C:\Users\user\OneDrive\Desktop\Test\eo number\eo number\bin\Debug\eo number.pdb
+C:\Users\user\OneDrive\Desktop\Test\eo number\eo number\obj\Debug\eo number.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Test\eo number\eo number\obj\Debug\eo number.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Test\eo number\eo number\obj\Debug\eo number.exe
+C:\Users\user\OneDrive\Desktop\Test\eo number\eo number\obj\Debug\eo number.pdb

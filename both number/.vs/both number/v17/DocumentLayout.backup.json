@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\Test\\both number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4D7307-2FDE-48F8-BAE4-71936B033239}|both number\\both number.csproj|c:\\users\\user\\onedrive\\desktop\\test\\both number\\both number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4D7307-2FDE-48F8-BAE4-71936B033239}|both number\\both number.csproj|solutionrelative:both number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Test\\both number\\both number\\Program.cs",
+              "RelativeDocumentMoniker": "both number\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Test\\both number\\both number\\Program.cs",
+              "RelativeToolTip": "both number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:21:17.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
