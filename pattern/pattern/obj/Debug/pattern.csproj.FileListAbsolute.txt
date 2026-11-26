@@ -1,7 +1,0 @@
-C:\Users\user\OneDrive\Desktop\Test\pattern\pattern\bin\Debug\pattern.exe.config
-C:\Users\user\OneDrive\Desktop\Test\pattern\pattern\bin\Debug\pattern.exe
-C:\Users\user\OneDrive\Desktop\Test\pattern\pattern\bin\Debug\pattern.pdb
-C:\Users\user\OneDrive\Desktop\Test\pattern\pattern\obj\Debug\pattern.csproj.AssemblyReference.cache
-C:\Users\user\OneDrive\Desktop\Test\pattern\pattern\obj\Debug\pattern.csproj.CoreCompileInputs.cache
-C:\Users\user\OneDrive\Desktop\Test\pattern\pattern\obj\Debug\pattern.exe
-C:\Users\user\OneDrive\Desktop\Test\pattern\pattern\obj\Debug\pattern.pdb
