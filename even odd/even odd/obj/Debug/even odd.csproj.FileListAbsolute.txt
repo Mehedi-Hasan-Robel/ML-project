@@ -1,7 +1,0 @@
-C:\Users\user\OneDrive\Desktop\Test\even odd\even odd\bin\Debug\even odd.exe.config
-C:\Users\user\OneDrive\Desktop\Test\even odd\even odd\bin\Debug\even odd.exe
-C:\Users\user\OneDrive\Desktop\Test\even odd\even odd\bin\Debug\even odd.pdb
-C:\Users\user\OneDrive\Desktop\Test\even odd\even odd\obj\Debug\even odd.csproj.AssemblyReference.cache
-C:\Users\user\OneDrive\Desktop\Test\even odd\even odd\obj\Debug\even odd.csproj.CoreCompileInputs.cache
-C:\Users\user\OneDrive\Desktop\Test\even odd\even odd\obj\Debug\even odd.exe
-C:\Users\user\OneDrive\Desktop\Test\even odd\even odd\obj\Debug\even odd.pdb
